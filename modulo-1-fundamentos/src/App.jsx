@@ -1,16 +1,13 @@
-import { useState } from 'react'
-import heroImg from './assets/hero.png'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import './App.css'
-import UserProfile from './aula-2-jsx/UserProfile';
+import ProductCard from './aula-3-props/ProductCard';
 
 
 function App() {
 
+
   return (
     <div>    
-      <UserProfile/>
+      <ProductCard nome= "Mouse" preco={230} emEstoque = {true}/>
+      <ProductCard nome= "Teclado" preco={90} emEstoque={false}/>
     </div>
   )
 }
