@@ -4,7 +4,7 @@ Repositório de estudos e exercícios práticos do meu aprendizado de React,
 seguindo um curso estruturado em 7 módulos.
 
 ## Módulos
-- [ ] Módulo 1 - Fundamentos do React
+- [X] Módulo 1 - Fundamentos do React
 - [ ] Módulo 2 - Hooks Essenciais
 - [ ] Módulo 3 - Gerenciamento de Estado
 - [ ] Módulo 4 - Roteamento
